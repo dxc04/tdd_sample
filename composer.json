@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "StuAtt\\":"src/"
+            "ClassAtt\\":"src/"
         }
     },
     "require": {
